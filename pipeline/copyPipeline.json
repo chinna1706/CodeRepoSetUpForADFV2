@@ -1,7 +1,7 @@
 {
 	"name": "copyPipeline",
 	"properties": {
-		"description": "test",
+		"description": "testing_purpose",
 		"activities": [
 			{
 				"name": "CopyFromBlobToBlob",
